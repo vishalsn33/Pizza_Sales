@@ -145,7 +145,7 @@ Customer Behavior Analysis: Average pizzas per order and size/category preferenc
 Revenue Improvement: Monitoring order values and category contributions supports strategic pricing and bundling.
 
 
-https://github.com/vishalsn33/Pizza_Sales/blob/main/Home%20Dashboard.png
+![Darshborad Preview].(https://github.com/vishalsn33/Pizza_Sales/blob/main/Home%20Dashboard.png).
 
 
 
