@@ -147,6 +147,9 @@ Revenue Improvement: Monitoring order values and category contributions supports
 **Darshborad Preview**
 ![Darshborad Preview](https://github.com/vishalsn33/Pizza_Sales/blob/main/Home%20Dashboard.png)
 
+**Best and Wrost Dashboard preview:**
+![B&W](https://github.com/vishalsn33/Pizza_Sales/blob/b2b132ce7b6d988fb5390f65d6350b4c9831bd65/Best%20and%20Worst.png)
+
 
 
 
