@@ -143,8 +143,8 @@ Inventory Planning: Understanding daily and monthly demand patterns ensures effi
 Customer Behavior Analysis: Average pizzas per order and size/category preferences help customize offerings.
 
 Revenue Improvement: Monitoring order values and category contributions supports strategic pricing and bundling.
-
-
+**
+Darshborad Preview**
 ![Darshborad Preview](https://github.com/vishalsn33/Pizza_Sales/blob/main/Home%20Dashboard.png)
 
 
